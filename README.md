@@ -1,12 +1,28 @@
 <h1 id="title">Hi I'm Jimin <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> </h1>
 <p>
+ 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejaman&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true"/></a>
  <a href="https://velog.io/@zaman17"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>&nbsp
   <a href="mailto:leegm17@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejaman&show_icons=true&theme=gotham)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ejaman&theme=gotham)](https://git.io/streak-stats)
+<table>
+<tbody>
+<tr>
+ <th scope='row'  > 
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejaman&show_icons=true&theme=gotham) 
+ </th>
+ <td> 
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=ejaman&theme=gotham)](https://git.io/streak-stats) 
+ </td>
+ </tr>
+</tbody>
+</table>
+
+
+
 <br/>
 
 
