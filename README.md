@@ -22,10 +22,10 @@
 
 
 
-<br/>
-
 
 <h3 >🛠 Languages and Tools</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejaman&layout=compact&theme=gotham)
 <p >
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejaman&layout=compact&theme=gotham)
 
 <br>
 
@@ -86,7 +85,7 @@
 </ul>
 </details>
 
-<br>
+
 
 <h3 >🪄 Blog </h3>
 <p>가장 최신 글 보러가기<p>
