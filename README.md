@@ -44,7 +44,6 @@
 </p>
 
 
-<br>
 
 <h3>⚡ Projects</h3>
 <details>	
