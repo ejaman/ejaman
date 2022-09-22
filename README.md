@@ -34,6 +34,29 @@
 
 <br>
 
+
+ <h3 >🪄 Blog </h3>
+ <p>가장 최신 글 보러가기<p>
+
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zaman17&color=dark)](https://velog.io/@zaman17)
+ <details>	
+   <summary><b>other posts</b></summary>
+   <br/>
+ <ul>
+   <li><a href="https://velog.io/@zaman17/series/Javascript-Basics"><b>
+     ✨ Jvascript Basics</b></a><br/>자바스크립트 개념을 공부하고 기록
+   </li>
+    <li><a href="https://velog.io/@zaman17/series/Theories"><b>
+     ✨  Theories</b></a><br/>Web 지식을 공부하고 기록
+   </li>
+   <li><a href="https://velog.io/@zaman17/series/Toy-Projects"><b>
+     ✨  Toy Projects</b></a><br/>토이 프로젝트 회고록 & 코드 정리
+   </li>
+ </ul>
+  </details>
+</div>
+
+<br>
 <div display="flex">
  <h3>⚡ Projects</h3>
   <details>	
@@ -72,26 +95,6 @@
    </details>
 
 
- <h3 >🪄 Blog </h3>
- <p>가장 최신 글 보러가기<p>
-
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zaman17&color=dark)](https://velog.io/@zaman17)
- <details>	
-   <summary><b>other posts</b></summary>
-   <br/>
- <ul>
-   <li><a href="https://velog.io/@zaman17/series/Javascript-Basics"><b>
-     ✨ Jvascript Basics</b></a><br/>자바스크립트 개념을 공부하고 기록
-   </li>
-    <li><a href="https://velog.io/@zaman17/series/Theories"><b>
-     ✨  Theories</b></a><br/>Web 지식을 공부하고 기록
-   </li>
-   <li><a href="https://velog.io/@zaman17/series/Toy-Projects"><b>
-     ✨  Toy Projects</b></a><br/>토이 프로젝트 회고록 & 코드 정리
-   </li>
- </ul>
-  </details>
-</div>
 
   
 
