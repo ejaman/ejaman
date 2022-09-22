@@ -12,8 +12,7 @@
 
 <h3 >🛠 Languages and Tools</h3>
 <div>
-  
- <p> Usually use...  </p>
+ 
  <p>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
@@ -22,8 +21,8 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
  </p>
 
- <p > Techs that I've used at least once </p>
- <p >
+ <p> Interested in ...</p>
+ <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -93,9 +92,3 @@
        </li>
     </ul>
    </details>
-
-
-
-  
-
-
