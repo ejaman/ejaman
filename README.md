@@ -1,19 +1,18 @@
 <h1 id="title">Hi I'm Jimin <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> </h1>
-<div>
- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ejaman&show_icons=true&theme=gotham">
-</div>
 
-<p>
 <h3 >📭 Contacts</h3>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejaman&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true"/></a>
- <a href="https://velog.io/@zaman17"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>&nbsp
-  <a href="mailto:leegm17@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/></a>
+<p> check my Github and Blog</p>
+<p>
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejaman&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true"/></a>
+  <a href="https://velog.io/@zaman17"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>&nbsp
+   <a href="mailto:leegm17@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/></a>
 </p>
+ <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ejaman&show_icons=true&theme=gotham">
 <br>
 
 <h3 >🛠 Languages and Tools</h3>
 <div>
-  <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejaman&layout=compact&theme=gotham">
+  
  <p> Usually use...  </p>
  <p>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -31,9 +30,9 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
  </p>
-
 </div>
 
+<br>
 
 <div display="flex">
  <h3>⚡ Projects</h3>
