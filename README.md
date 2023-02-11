@@ -56,39 +56,5 @@
 </div>
 
 <br>
-<div display="flex">
- <h3>⚡ Projects</h3>
-  <details>	
-    <summary><b>🤝 Team Projects</b></summary>
-    <ul>
-     <li><a href="https://github.com/gift-mbti/gift-mbti"><b>
-       🚀 Gift MBTI</b></a><br/>첫 next 프로젝트!(진행중)
-     </li>
-      <li><a href="https://github.com/PetDoctor/PetDoctor"><b>
-       🚀 Pet Doctor</b></a><br/>엘리스 SW 엔지니어링 2번째 프로젝트 리팩토링
-     </li>
-     <li><a href="https://github.com/Elice-SW-2-Team14/Animal-Hospital"><b>
-       🚀  Animal Hospital</b></a><br/>엘리스 SW 엔지니어링 2번째 프로젝트
-     </li>
-       <li><a href="https://github.com/ejaman/v36-geckos-team-12"><b>
-       🚀  Virtual Postcard</b></a><br/> Chingu project
-     </li>
-    </ul>
-  </details>
-  <details>	
-    <summary><b>🚂 Toy Projects</b></summary>
-      <ul>
-       <li><a href="https://github.com/ejaman/next_toy_project"><b>
-        ✨ Doogle </b></a>(진행중)
-       </li>
-       <li><a href="https://github.com/ejaman/wanted-pre-onboarding-challenge-fe-1"><b>
-        ✨  TODO List</b></a><br/>원티드 온보딩 챌린지
-       </li>
-       <li><a href="https://github.com/ejaman/scheduler"><b>
-         ✨  Scheduler</b></a><br/> React로 만든 다이어리!
-       </li>
-       <li><a href="https://github.com/ejaman/findWally"><b>
-         ✨ Find Wally</b></a><br/>월리를 찾아라!
-       </li>
-    </ul>
-   </details>
+
+
